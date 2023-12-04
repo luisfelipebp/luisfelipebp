@@ -1,4 +1,23 @@
-- 🌱 Atualmente, estudo programação Front End e UX/UI Design. Além de ter realizado cursos, também tenho experiência prática em alguns projetos, que podem ser visualizados em meu portfólio https://luisfelipebp.github.io/
+# Bem-vindo ao meu perfil do GitHub! 👋
 
+## Sobre mim
+Sou um estudante de Análise e desenvolvimento de Sistemas e atualmente estou estudando JAVA e suas principais ferrementas. Tenho conhecimento em Back-End e Front-End.
+
+## Habilidades e Ferramentas
+### Back-End:
+- Linguagem JAVA
+- JPA
+- Spring Boot
+- Spring Security
+
+### Front-End:
+- Angular
+- React
+- HTML
+- CSS
+- JavaScript
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/luisfelipebp/
 
 
