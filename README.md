@@ -5,7 +5,7 @@ Sou um estudante de Análise e desenvolvimento de Sistemas e atualmente estou es
 
 ## Habilidades e Ferramentas
 ### Back-End:
-- Linguagem JAVA
+- JAVA
 - JPA
 - Spring Boot
 - Spring Security
