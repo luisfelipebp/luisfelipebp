@@ -1,23 +1,36 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
+---
+
 ## Sobre mim
-Sou um estudante de Análise e desenvolvimento de Sistemas e atualmente estou estudando JAVA e suas principais ferrementas. Tenho conhecimento em Back-End e Front-End.
+
+Sou estudante de **Data Science**, apaixonado por transformar dados em soluções inteligentes. Atualmente, estudo e desenvolvo projetos utilizando as principais ferramentas e técnicas de análise de dados, machine learning e inteligência artificial. Busco sempre aprender mais e compartilhar conhecimento com a comunidade.
+
+---
 
 ## Habilidades e Ferramentas
-### Back-End:
-- JAVA
-- JPA
-- Spring Boot
-- Spring Security
 
-### Front-End:
-- Angular
-- React
-- HTML
-- CSS
-- JavaScript
+**Linguagens & Bibliotecas:**
+- Python 
+- Scikit-learn
+- SQL
+- Jupyter Notebook
+
+**Machine Learning & Estatística:**
+- Modelagem preditiva (classificação, regressão)
+- Validação cruzada e ajuste de hiperparâmetros
+- Análise exploratória de dados (EDA)
+- Visualização de dados
+
+**Outras Competências:**
+- Limpeza e preparação de dados
+- Apresentação de resultados e storytelling com dados
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/luisfelipebp/
 
+- [LinkedIn](https://www.linkedin.com/in/luisfelipebp/)
+- Email: luisfelipebarbosa2013@gmail.com
 
+---
+
+Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
