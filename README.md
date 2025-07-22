@@ -22,10 +22,6 @@ Sou estudante de **Data Science**, apaixonado por transformar dados em soluçõe
 - Análise exploratória de dados (EDA)
 - Visualização de dados
 
-**Outras Competências:**
-- Limpeza e preparação de dados
-- Apresentação de resultados e storytelling com dados
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/luisfelipebp/)
