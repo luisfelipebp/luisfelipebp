@@ -1,32 +1,18 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Olá, eu sou o Luis Felipe 👋
 
----
+Sou um **Engenheiro de Dados** focado em pipelines ELT e modelagem dimensional, atuando na construção de camadas analíticas eficientes e escaláveis. 
 
-## Sobre mim
+Tenho experiência prática no desenvolvimento de projetos end-to-end, desde a ingestão de dados até a entrega de valor em arquiteturas Lakehouse.
 
-Sou estudante de **Data Science**, apaixonado por transformar dados em soluções inteligentes. Atualmente, estudo e desenvolvo projetos utilizando as principais ferramentas e técnicas de análise de dados, machine learning e inteligência artificial. Busco sempre aprender mais e compartilhar conhecimento com a comunidade.
+### 🛠️ Minhas Habilidades e Stack Técnico
 
----
+* **Linguagens:** Python e SQL
+* **Transformação e Orquestração:** Apache Airflow, dbt-core e PySpark
+* **Modelagem e Arquitetura:** Modelagem Dimensional (Star Schema), Arquiteturas Lakehouse
+* **Processamento:** Pipelines ELT, Ingestão Incremental e aplicação de Boas Práticas de Qualidade de Dados
 
-## Habilidades e Ferramentas
+### ⚙️ O que eu faço
 
-**Linguagens & Bibliotecas:**
-- Python 
-- Scikit-learn
-- SQL
-- Jupyter Notebook
-
-**Machine Learning & Estatística:**
-- Modelagem preditiva (classificação, regressão)
-- Validação cruzada e ajuste de hiperparâmetros
-- Análise exploratória de dados (EDA)
-- Visualização de dados
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/luisfelipebp/)
-- Email: luisfelipebarbosa2013@gmail.com
-
----
-
-Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+* Desenvolvimento e manutenção de pipelines ELT de ponta a ponta.
+* Modelagem de dados otimizada para análises (Star Schema).
+* Garantia de consistência e qualidade dos dados em todas as camadas analíticas.
